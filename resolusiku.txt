@@ -1,0 +1,19 @@
+Menjadi programmer tradisional itu awalnya menyenangkan, tidak ada kendala yang begitu berarti. 
+Proyek jalan terus dan kehidupan berjalan normal.
+Ketidaknyamanan mulai muncul setelah masuk tahun ke 5. Kasus yang dihadapi hanya itu-itu saja, otomatis ini menghambat perkembangan coding secara pribadi.
+Dan ditambah penerapan teknologi baru sangat lambat, sangat tidak selaras dengan perkembangan.
+
+Covid 2019 menghajar semua lini. Perubahan terjadi dimana-mana, bahkan kebijakan perusahaan.
+perubahan kebijakan ini sangat berpengaruh ke pekerjaan secara pribadi.
+Proyek mulai sepi. Tim satu persatu mulai hilang yang tersisa hanya sebagian kecil. perampingan disemua lini.
+
+Efek ini memaksa untuk membuka mata, melihat lagi keluar jendela, apa yang terjadi diluar sana?
+Ada banyak sekali perkembangan yang jauh dari pantauan.
+Ketertinggalan ini harus dikejar. Tahun ini harus ditutup dengan belajar lagi tentang semua hal baru itu.
+Hidup harus terus berlanjut.
+
+Resolusi di penghujung tahun 2023 ini:
+- Belajar ReactJS 
+- lanjut ke NextJS
+- penerapannya pada aplikasi yang existing --menulis ulang dengan NextJS
+- selalu mengupdate repository -- tabungan component.
